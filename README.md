@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Capital Gains CLI (Nubank Challenge)
 
 This project implements a CLI that calculates taxes on capital gains from stock operations
@@ -25,4 +25,4 @@ make test
 - Outputs JSON array of tax objects to stdout, one line per input line.
 =======
 # capital-gains-go
->>>>>>> 91d95362f5b8f71c989976391a658396d70df4a0
+
